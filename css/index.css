@@ -66,10 +66,11 @@ h1{
     text-shadow: 1px 1px rgba(0, 180, 216, 0.95);
 }
 
-#intro-text p{
+#description{
     margin-top: 5px;
     font-size: 30px;
     font-weight: 400;
+    margin-bottom: 0;
 }
 
 .sub-card {
@@ -193,7 +194,7 @@ h1{
     }
 
     .card{
-        width: 90%
+        width: 80%
     }
 
     .connect-links {
