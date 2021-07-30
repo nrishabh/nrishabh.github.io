@@ -40,6 +40,7 @@ h2 {
     background-color: var(--background-color);
     box-shadow: none;
     color: var(--card-color);
+    margin-bottom: 0;
 }
 
 #cover-photo {
@@ -189,5 +190,12 @@ h1{
 
     #cover-photo img {
         width: 100px;
+    }
+
+    .connect-links {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 }
