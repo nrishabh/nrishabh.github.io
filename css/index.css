@@ -192,6 +192,10 @@ h1{
         width: 100px;
     }
 
+    .card{
+        width: 90%
+    }
+
     .connect-links {
         display: flex;
         flex-direction: column;
