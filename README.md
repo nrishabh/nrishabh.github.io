@@ -7,7 +7,7 @@ This is the repository to my portfolio, which showcases some of my work, tells p
 ## Attributions
 This website is based on my friend, Urmil Shroff's portfolio. You can check his portfolio out [here](http://www.urmilshroff.tech) too!
 
-##Contributing
+## Contributing
 You can fork and contribute to this repository to fix bugs and improve the look/performance of the website. Please do not change any of my personal information in your pull request, otherwise I will not merge it.
 
 
