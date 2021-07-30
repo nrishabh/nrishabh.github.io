@@ -11,5 +11,5 @@ This website is based on my friend, Urmil Shroff's portfolio. You can check his 
 You can fork and contribute to this repository to fix bugs and improve the look/performance of the website. Please do not change any of my personal information in your pull request, otherwise I will not merge it.
 
 
-### License
+## License
 This page is held under the MIT License, meaning you can freely take partial or complete code from it and use it in your own website(s) without requiring prior permission from me. Enjoy!
