@@ -12,7 +12,7 @@
 
         <!-- Browser Page Title -->
         <title>Rishabh Nanawati</title>
-        <link rel="shortcut icon" type="image/ico" href="#TODO" />
+        <link rel="shortcut icon" type="image/ico" href="assets/favicon.png" />
 
         <!-- Externals -->
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -38,14 +38,55 @@
         <div class='card' id='about'>
             <h2> <i class="fas fa-info-circle"></i> About</h2>
             <p>
-                A machine learning enthusiast, pursuing Bachelors in Technology, majoring in computer engineering with a minor in artificial intelligence and machine learning, from MPSTME, NMIMS University, Mumbai.
-                <br><br>
-                Rishabh believes in making the world a better place via modern ideas and creative innovations. On those lines, he has founded a social venture and is actively looking for collaborations.
-                <br><br>
-                Leadership, Strategy and Marketing are his strong points. He led a team that was ranked as one of the top marketing teams by Google for running a successful digital marketing campaign for a non-profit focusing on raising awareness and funds for treatment and research on sarcoma cancer as part of the Google AdGrants Online Marketing Challenge.
-                <br><br>
-                He takes a keen interest in aviation, adores airplanes, and wishes to acquire a pilot license in the future. He is also a part-time graphic designer with a heart for minimalism. Apart from geeking over superheroes and sci-fi movies in his free time, he takes an avid interest in history and literature, and dreams of traveling the world someday.
+                I am a 22 year old computer engineer, keen on working on AI and Web Development projects. With a heart for minimalism, I am always striving to make the world a better place via modern ideas and creative innovations.
             </p>
+        </div>
+        <div class='card' id='experience'>
+            <h2> <i class="fas fa-briefcase"></i> Work Experience @ Curabit</h2>
+            <div class="sub-card">
+                <div class='top-line'>
+                    <h3>About Curabit</h3>
+                    <button class='collapse-btn' onclick="collapse(this)"><h3><i class="fas fa-chevron-down"></i></h3></button>
+                </div>
+                <h4>A social venture that aims to improve mental health treatment in India through virtual reality (VR).</h4>
+                <div class='collapsible'>
+                    <p>
+                        Founded by Aman Sariya and me, Curabit aims to empower mental health professionals with tools that help them identify and treat disorders more effectively, accurately, conveniently and safely.
+                        <br><br>
+                        The main idea is to use VR as a tool to introduce audio and visual anchors to create a sense of presence for the patient. It allows our VR-based therapy to be more stimulatory than traditional therapeutic techniques. It is also cost-effective and allows for bio-monitoring. The working of our VR system can be highlighted using an use-case scenario.
+                    </p>
+                    <a class='a-btn' href='https://www.curabit.in' target='_blank'><i class="fas fa-vr-cardboard"></i> Curabit's Website</a>
+                </div>
+            </div>
+            <div class="sub-card">
+                <div class='top-line'>
+                    <h3>Web Application Development</h3>
+                    <button class='collapse-btn' onclick="collapse(this)"><h3><i class="fas fa-chevron-down"></i></h3></button>
+                </div>
+                <h4>A web application that allowed CRUD operations on patient data and served API endpoints.</h4>
+                <div class='collapsible'>
+                    <p>
+                        Developed using Flask, HTML/CSS, Javascript and Firebase, this application allows a therapist to manage the data of their patients as well as control the playback of different 360 videos for the target mental health disorder on the VR headset using API endpoints.
+                    </p>
+                    <a class='a-btn' href='https://app.curabit.in/' target='_blank'><i class="fas fa-tv"></i> Web App Site</a>
+                    <a class='a-btn' href='https://github.com/Curabit/flask-app' target='_blank'><i class="fab fa-github"></i> Web App Repo</a>
+                </div>
+            </div>
+            <div class="sub-card">
+                <div class='top-line'>
+                    <h3>UnityVR Application Development</h3>
+                    <button class='collapse-btn' onclick="collapse(this)"><h3><i class="fas fa-chevron-down"></i></h3></button>
+                </div>
+                <h4>A basic app that plays 360 videos and controls their playback through webhook communication.</h4>
+                <div class='collapsible'>
+                    <p>
+                        Developed using the Unity framework, this application will be displaying various 360 videos that we have shot and stored locally on the headset. The application connects to an API endpoint, which send instructions on which video to play when, whether to seek forwards or backwards and when to stop playing.
+                        <br><br>
+                        <b>I developed only a couple of base functions for this application.</b> This project was further developed into a proper functioning application by my partner, <a href='https://www.linkedin.com/in/amansariya'>Aman Sariya</a>.
+                    </p>
+                    <a class='a-btn' href='https://github.com/nrishabh/sad_unity' target='_blank'><i class="fab fa-github"></i> Unity Base App Repo</a>
+                </div>
+            </div>
         </div>
         <div class='card' id='projects'>
             <h2><i class="fas fa-code"></i> Projects</h2>
