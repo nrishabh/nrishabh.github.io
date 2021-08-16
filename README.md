@@ -1,8 +1,8 @@
-# Rishabh's Portfolio
+# [Rishabh's Portfolio](https://www.rishabhnanawati.me)
 
 Hello!🖐
 <br>
-This is the repository to my portfolio, which showcases some of my work, tells people a little something about me and also provides links to my social media. If you're hiring, you should definitely check it out [here](http://nrishabh.github.io).
+This is the repository to my portfolio, which showcases some of my work, tells people a little something about me and also provides links to my social media. If you're hiring, you should definitely check it out [here](https://www.rishabhnanawati.me).
 
 ## Attributions
 This website is based on my friend, Urmil Shroff's portfolio. You can check his portfolio out [here](http://www.urmilshroff.tech) too!
