@@ -1,6 +1,6 @@
 $(document).ready(function() {
     var description = new Typed('#description', {
-        strings: ['Software Developer^2500', 'Data Science Enthusiast^2500', 'Computer Engineer^2500', 'Entrepreneur^2500', 'Aviation Geek^2500', 'Minimalism Fanatic^2500', 'Sci-fi Nerd^2500', 'Book Lover^2500'],
+        strings: ['Software Developer^2500', 'ML Enthusiast^2500', 'Computer Engineer^2500', 'Entrepreneur^2500', 'Aviation Geek^2500', 'Minimalism Fanatic^2500', 'Sci-fi Nerd^2500', 'Book Lover^2500'],
         shuffle: true,
         loop: true,
         typeSpeed: 100,
