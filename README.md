@@ -1,4 +1,4 @@
-# [Rishabh's Portfolio](https://www.rishabhnanawati.me)
+# [Rishabh's Portfolio](https://nrishabh.github.io)
 
 Hello!🖐
 <br>
